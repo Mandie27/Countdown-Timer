@@ -11,7 +11,7 @@ h1 {
     margin: 40px 0px 20px;
 }
 h3{
-    color: lightblue;
+    color: #B31217;
     font-weight: 100;
     font-size: 20px;
     margin: 0px 0px 20px;
@@ -26,6 +26,9 @@ h3{
     padding: 10px;
     border-radius: 3px;
     display: inline-block;
+}
+img{
+    width: 20rem;
 }
 #days {
     color: #02C8A7;
